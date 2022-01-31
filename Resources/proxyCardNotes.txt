@@ -1,0 +1,33 @@
+Entire Image: 		672 x 936
+
+NOTE: MtG uses 9pt (12px) font size, down to 7pt
+	This appears way too small in program
+NOTE: Sizes do NOTinclude border
+NOTE: Fonts folder -> C:\Windows\Fonts
+
+
+Pixel Locations:	X1 x Y1 -> X2 x Y2
+Bounding Box:		(X, Y, width, height)
+	X and Y are coordinates of top-left pixel
+
+
+
+
+Name Box: 		47 x 42 -> 624 x 94
+			(47, 42, 577, 53)
+
+Mana Cost Box:		424 x 98 -> 624 x 150
+			(424, 98, 201, 53)
+
+Image Box: 		49 x 102 -> 622 x 520
+			(49, 102, 573, 418)
+
+Type Box: 		47 x 529 -> 624 x 581
+			(47, 529, 577, 53)
+
+Text Box: 		49 x 589 -> 622 x 840
+			(49, 589, 574, 252)
+
+Stat Box:		511 x 844 -> 624 x 896
+			(511, 844, 114, 53)
+
