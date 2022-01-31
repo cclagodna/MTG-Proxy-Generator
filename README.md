@@ -10,7 +10,7 @@ This is meant as a fun programming challenge for me, and to have a decent deck t
 
 ## To Use
 - The file `cardlist.txt` must be in the same folder as `main.py` and contain a new-line separated list of desired cards. Card lists downloaded from [Archidekt](https://archidekt.com) should work innately.
-- The folders `EnhancedProxies/`, `Images/`, `Proxies/`, and `Texts/` must be in same folder as `main.py`
+- Create folders `EnhancedProxies/`, `Images/`, `Proxies/`, and `Texts/` in the same directory as `main.py`
 - Run `main.py` to choose what kind of proxies you want to generate!
 - Go to `EnhancedProxies/` or `Proxies/`, select all, then print off through file explorer.
 - (For Windows) In the printing window, uncheck "fit picture to frame" and select "wallet" size. This will print each proxy with the standard MtG dimensions
