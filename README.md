@@ -22,3 +22,4 @@ This is meant as a fun programming challenge for me, and to have a decent deck t
 - Allow printing of cards through the program
 - Allow downloading of token cards
 - Allow downloading of specific card art, instead of the first result
+- Create simple mana symbols to replace text in brackets, such as: {R}{3}
