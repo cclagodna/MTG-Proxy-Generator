@@ -14,7 +14,7 @@ This is meant as a fun programming challenge for me, and to have a decent deck t
 - Run `main.py` to choose what kind of proxies you want to generate!
 - Go to `EnhancedProxies/` or `Proxies/`, select all, then print off through file explorer.
 - (For Windows) In the printing window, uncheck "fit picture to frame" and select "wallet" size. This will print each proxy with the standard MtG dimensions
-- Painstakingly cut out the cards, sleeve them with trash cards, then you're good to go!
+- Painstakingly cut out the cards, sleeve them with bulk cards, then you're good to go!
 
 ## TODO:
 - A GUI
